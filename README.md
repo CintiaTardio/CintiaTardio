@@ -8,3 +8,7 @@ He trabajado en proyectos utilizando tecnologías como:
 - Herramientas: Git, GitHub, Figma, Insomnia, Jira, Confluence
 
 Me considero una persona dedicada, respetuosa y comprometida con lo que hace. Mi experiencia laboral me ha dotado de una gran capacidad de análisis, autonomía, resolución de problemas y trabajo en equipo. Estas habilidades las he trasladado con éxito al mundo del desarrollo web.
+
+## Contáctame
+- 📧 Por correo [Email](mailto:cintiatardio@gmail.com)
+- 📫 Por Linkedin [LinkedIn](https://www.linkedin.com/in/cintiatardio/)
